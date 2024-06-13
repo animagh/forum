@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2DCC0F-3B13-4277-AC27-763240871CFF}|Infrastructure\\Infrastructure.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\infrastructure\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2DCC0F-3B13-4277-AC27-763240871CFF}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090AC79E-60BC-4563-9DB3-343375B920F8}|Contracts\\Contracts.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\contracts\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090AC79E-60BC-4563-9DB3-343375B920F8}|Contracts\\Contracts.csproj|solutionrelative:contracts\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F024F4-0D7A-4466-8F3C-4B9FCB716823}|Application\\Application.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F024F4-0D7A-4466-8F3C-4B9FCB716823}|Application\\Application.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F024F4-0D7A-4466-8F3C-4B9FCB716823}|Application\\Application.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\application\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F024F4-0D7A-4466-8F3C-4B9FCB716823}|Application\\Application.csproj|solutionrelative:application\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F024F4-0D7A-4466-8F3C-4B9FCB716823}|Application\\Application.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\application\\services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F024F4-0D7A-4466-8F3C-4B9FCB716823}|Application\\Application.csproj|solutionrelative:application\\services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F024F4-0D7A-4466-8F3C-4B9FCB716823}|Application\\Application.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\application\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F024F4-0D7A-4466-8F3C-4B9FCB716823}|Application\\Application.csproj|solutionrelative:application\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBAE4D7-74EF-4395-B9AF-0FDC834AA55A}|API\\API.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\api\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBAE4D7-74EF-4395-B9AF-0FDC834AA55A}|API\\API.csproj|solutionrelative:api\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBAE4D7-74EF-4395-B9AF-0FDC834AA55A}|API\\API.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBAE4D7-74EF-4395-B9AF-0FDC834AA55A}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBAE4D7-74EF-4395-B9AF-0FDC834AA55A}|API\\API.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\api\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBAE4D7-74EF-4395-B9AF-0FDC834AA55A}|API\\API.csproj|solutionrelative:api\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBAE4D7-74EF-4395-B9AF-0FDC834AA55A}|API\\API.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBAE4D7-74EF-4395-B9AF-0FDC834AA55A}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBAE4D7-74EF-4395-B9AF-0FDC834AA55A}|API\\API.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBAE4D7-74EF-4395-B9AF-0FDC834AA55A}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EEE25A-A4CF-4087-BAF5-B422B5309B8F}|Domain\\Domain.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\domain\\exceptions\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EEE25A-A4CF-4087-BAF5-B422B5309B8F}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2DCC0F-3B13-4277-AC27-763240871CFF}|Infrastructure\\Infrastructure.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2DCC0F-3B13-4277-AC27-763240871CFF}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EEE25A-A4CF-4087-BAF5-B422B5309B8F}|Domain\\Domain.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EEE25A-A4CF-4087-BAF5-B422B5309B8F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EEE25A-A4CF-4087-BAF5-B422B5309B8F}|Domain\\Domain.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EEE25A-A4CF-4087-BAF5-B422B5309B8F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EEE25A-A4CF-4087-BAF5-B422B5309B8F}|Domain\\Domain.csproj|c:\\users\\geekster pc\\desktop\\programming\\finalproject\\domain\\models\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EEE25A-A4CF-4087-BAF5-B422B5309B8F}|Domain\\Domain.csproj|solutionrelative:domain\\models\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Application\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Application\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:19:29.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Application\\Services\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Application\\Services\\TokenGenerator.cs",
+              "RelativeToolTip": "Application\\Services\\TokenGenerator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:18:32.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:16:42.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T22:59:19.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:53:45.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:43:17.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Application\\Services\\AuthorizationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthorizationService.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Application\\Services\\AuthorizationService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthorizationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:37:36.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\API\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "API\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\API\\ServiceExtension.cs",
+              "RelativeToolTip": "API\\ServiceExtension.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:30:56.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Contracts\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Contracts\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Contracts\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Contracts\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:54:30.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Infrastructure\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ApplicationDataContext.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Infrastructure\\ApplicationDataContext.cs",
+              "RelativeToolTip": "Infrastructure\\ApplicationDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:36:05.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Domain\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:31:22.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Domain\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Domain\\Entities\\UserRole.cs",
+              "RelativeToolTip": "Domain\\Entities\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:31:17.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Domain\\Models\\Dtos.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Dtos.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Domain\\Models\\Dtos.cs",
+              "RelativeToolTip": "Domain\\Models\\Dtos.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwEEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:22:34.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:21:53.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TopicController.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\API\\Controllers\\TopicController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TopicController.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\API\\Controllers\\TopicController.cs",
+              "RelativeToolTip": "API\\Controllers\\TopicController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:45:55.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GlobalExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Domain\\Exceptions\\GlobalExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\GlobalExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Geekster PC\\Desktop\\Programming\\FinalProject\\Domain\\Exceptions\\GlobalExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\GlobalExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:04:32.467Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
